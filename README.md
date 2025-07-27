@@ -1,7 +1,7 @@
 # 🏢 HR Analytics Dashboard Project  
 ### 👥 Workforce Insights & Business Intelligence  
 
-![HR Dashboard](./assets/hr_dashboard.png)  
+![HR Dashboard](<img width="1342" height="741" alt="Screenshot 2025-07-27 210312" src="https://github.com/user-attachments/assets/76811cee-591e-4e7a-98f5-1e4f33d0353e"/>)  
 
 Welcome to my **HR Analytics Dashboard Project**!  
 This project provides a **data-driven approach to workforce management**, enabling HR teams to gain actionable insights into **employee attrition, promotions, demographics, and workforce performance**.  
